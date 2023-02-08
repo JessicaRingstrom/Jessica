@@ -1,0 +1,11 @@
+num1 = int(input(" skriv ett tal:"))
+num2 = int(input(" skriv ett tal till: "))
+print(num1 + num2)
+print(num1 / num2)
+print(num1 % num2)
+print("jag fick in " + str(num1) + " och " + str(num2) + " som input")
+
+x = int(input("skriv ett tal: "))
+y = float(input("skriv ett till tal: "))
+print(float(x))
+print(int(y))
